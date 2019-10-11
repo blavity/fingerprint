@@ -4,6 +4,5 @@
   "author": "Candace Rogers",
   "description": "Modular use of Fingerprintjs2 for a Vue/Nuxt application",
   "license": "ISC",
-  "repository": "blavity/fingerprint",
   "main": "index.js"
 }
