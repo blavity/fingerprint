@@ -1,0 +1,9 @@
+{
+  "name": "@blavity/fingerprint",
+  "version": "1.0.0",
+  "author": "Candace Rogers",
+  "description": "Modular use of Fingerprintjs2 for a Vue/Nuxt application",
+  "license": "ISC",
+  "repository": "blavity/fingerprint",
+  "main": "index.js"
+}
