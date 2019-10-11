@@ -3,7 +3,7 @@ Utilizes FingerprintJS API to track the fingerprint, page visited and timestamp 
 ## Install
 
 ```
-$ npm install @blavity/fingerprint
+$ npm install git@github.com:blavity/fingerprint.git#master
 ```
 
 ## Usage
